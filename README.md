@@ -1,5 +1,6 @@
-# Bootcamp Git Project
-Sesi Git 1## Tujuan
+# Bootcamp DevOps
+Sesi	 Git 1## Tujuan
 Belajar git workflow lokal.
 ## Senarai arahan
-- git init / git add / git commit## Tarikh
+- git init / git add / git commit
+## Tarikh
